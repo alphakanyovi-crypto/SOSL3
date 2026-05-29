@@ -2,7 +2,7 @@
 <script setup>
 import Home from './views/Home.vue';
 import{ RouterView } from 'vue-router';
-import Navbar from './components/Navbar.vue';
+import Navbar from './components/navbar.vue';
 import Footer from './components/Footer.vue';
 </script>
 <template>
